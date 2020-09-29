@@ -5,7 +5,7 @@
     "env": {
         "PASSWORD": {
             "description": "shadowsocks-libev password",
-            "value": "password"
+            "value": "secrets.PASSWORD"
         },
         "METHOD": {
             "description": "shadowsocks-libev method",
@@ -13,10 +13,10 @@
         },
         "WSPATH": {
             "description": "websocket path",
-            "value": "/posts.html"        
+            "value": "/secrets.PATH"        
         }
     },
-    "website": "https://github.com/mixool/shadowsocks-libev",
-    "repository": "https://github.com/mixool/shadowsocks-libev",
+    "website": "https://github.com/delphinuz/gqfdasdaqerf",
+    "repository": "https://github.com/delphinuz/gqfdasdaqerf",
     "stack": "container"
 }
